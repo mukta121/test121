@@ -1,4 +1,4 @@
-!pip install streamlit pandas plotly seaborn prophet transformers
+
 
 import streamlit as st
 import pandas as pd
